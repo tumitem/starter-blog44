@@ -1,10 +1,10 @@
-title: The Butler
-baseline: Your blogging assistant
-description: A ready to use static blog, powered by Cecil.
+title: Gamer Assistants - esports , csgo , lol 
+baseline: esports player's assistant - it is me
+description:  Your writing maniac about esport business and expansion games and much more
 baseurl: /
 canonicalurl: true
-keywords: [Cecil, Static Site Generator, SSG]
-author: Arnaud Ligny
+keywords: [esports, csgo , lol , e-sports world, tips]
+author: G2 and Team Liquid Team League of Legens Ligny
 language: en
 languages:
   - code: en
@@ -12,10 +12,10 @@ languages:
   - code: fr
     locale: fr_FR
     config:
-      baseline: Votre assistant de blog
-      description: Un blog statique prêt à l’emploi, propulsé par Cecil.
+      baseline: esports player's assistant - it is me
+      description:esports player's assistant - it is me 
       taxonomies:
-        tags: tag
+        tags: esports  
 theme:
   - hyde
   - netlify
