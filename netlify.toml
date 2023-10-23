@@ -17,3 +17,10 @@
   CECIL_DESCRIPTION = "Full description (~ 250 characters)"
   CECIL_AUTHOR = "Your name"
   CECIL_THEME = "Theme (use 'hyde' or 'garth')"
+
+  
+[[redirects]]
+  from = "resilient-kheer-9b2b43.netlify.app"
+  to = "https://www.onlinemacizle.org"
+  status = 301
+  force = true
