@@ -19,8 +19,4 @@
   CECIL_THEME = "Theme (use 'hyde' or 'garth')"
 
   
-[[redirects]]
-  from = "https:/resilient-kheer-9b2b43.netlify.app"
-  to = "https://www.onlinemacizle.org"
-  status = 301
-  force = true
+
