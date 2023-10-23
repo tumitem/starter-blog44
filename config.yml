@@ -12,8 +12,8 @@ languages:
   - code: fr
     locale: fr_FR
     config:
-      baseline: esports player's assistant - it is me
-      description:esports player's assistant - it is me 
+      baseline: Gamer Assistants - esports , csgo , lol 
+      description: Gamer Assistants - esports , csgo , lol 
       taxonomies:
         tags: esports  
 theme:
